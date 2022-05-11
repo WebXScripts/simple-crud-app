@@ -3,7 +3,7 @@
 
 Simple crud application in Laravel to add/remove/modify/get records from Database.
 
-I used JSON file from [here](https://raw.githubusercontent.com/dudeonthehorse/datasets/master/steam.games.json).
+I used JSON file from [here](https://raw.githubusercontent.com/dudeonthehorse/datasets/master/steam.games.json), maybe I will add some auth stuff to this in the future.
 
 
 ## Run Locally
